@@ -1,0 +1,2 @@
+pymobiledevice3>=11,<12
+pyinstaller>=6
